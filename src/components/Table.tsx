@@ -1,5 +1,4 @@
 import * as React from "react";
-import tableBackgroundUrl from "../assets/table-background.jpg";
 
 const Divider = () => <hr className="border-white" />;
 
